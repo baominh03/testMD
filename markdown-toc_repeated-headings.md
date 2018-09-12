@@ -13,6 +13,8 @@
      + [Sub-sub-heading](#bao-minh)
 
 - [1. Phuong](#phuong)
+   * [sub phuong](#sub-phuong)
+      + [sub sub phuong](#sub-sub-phuong)
 	 
 	 123
 # Heading levels
@@ -70,4 +72,13 @@ abc
 789
 
 ## Phuong
+
 aaa
+
+## sub-phuong
+
+bbb
+
+### sub-sub-phuong
+
+ccc
