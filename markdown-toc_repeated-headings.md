@@ -71,14 +71,14 @@ abc
 
 789
 
-1. ## Phuong
+## Phuong
 
 aaa
 
-1.1 ## sub-phuong
+## sub-phuong
 
 bbb
 
-1.1.1 sub-sub-phuong
+### sub-sub-phuong
 
 ccc
