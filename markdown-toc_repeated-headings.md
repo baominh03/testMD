@@ -66,11 +66,11 @@ This is an h3 heading
 
 123
 
-### 1-Phuong
+### 1.Phuong
 
 123123214
 
-#### 1-2Phuong
+#### 1.2Phuong
 
 321413534613415
 
