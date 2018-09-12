@@ -12,9 +12,9 @@
   * [Sub-heading](#lmbao)
      + [Sub-sub-heading](#bao-minh)
 	 
-- [Phuong](#phuong)
-  * [1.Phuong](#1/phuong)
-    + [1.2Phuong](#1-2/phuong)
+- [Phuong](#123)
+  * [1.Phuong](#1phuong)
+    + [1.2Phuong](#1-2phuong)
 
 
 	 
@@ -66,11 +66,11 @@ This is an h3 heading
 
 123
 
-### 1/Phuong
+### 1Phuong
 
 123123214
 
-#### 1-2/Phuong
+#### 1-2Phuong
 
 321413534613415
 
