@@ -13,8 +13,8 @@
      + [Sub-sub-heading](#bao-minh)
 	 
 - [Phuong](#123)
-  * [1.Phuong](#1phuong)
-    + [1.2Phuong](#1-2phuong)
+  * [1.Phuong](#123123214)
+    + [1.2Phuong](#321413534613415)
 
 
 	 
@@ -66,11 +66,11 @@ This is an h3 heading
 
 123
 
-### 1Phuong
+### 1.Phuong
 
 123123214
 
-#### 1-2Phuong
+#### 1.2.Phuong
 
 321413534613415
 
