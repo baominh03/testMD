@@ -12,9 +12,9 @@
   * [Sub-heading](#lmbao)
      + [Sub-sub-heading](#bao-minh)
 
-- [1. Phuong](#phuong)
-   * [sub phuong](#sub-phuong)
-      + [sub sub phuong](#sub-sub-phuong)
+- [1. Phuong](#1. phuong)
+   * [1.1 sub phuong](#1.1 sub-phuong)
+      + [1.1.1 sub sub phuong](#1.1.1 sub-sub-phuong)
 	 
 	 123
 # Heading levels
