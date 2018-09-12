@@ -12,7 +12,7 @@
   * [Sub-heading](#lmbao)
      + [Sub-sub-heading](#bao-minh)
 
-- [Phuong](#phuong)
+- [1. Phuong](#phuong)
 	 
 	 123
 # Heading levels
@@ -69,5 +69,5 @@ abc
 
 789
 
-## phuong
+## Phuong
 aaa
